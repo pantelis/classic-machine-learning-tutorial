@@ -19,7 +19,7 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
-$$ x^2 -3x+4=5$$
+$$x^2 -3x+4=5$$
 ---
 
 @title[JavaScript Block]
