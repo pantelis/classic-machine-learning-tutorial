@@ -4,16 +4,6 @@
 
 ---
 
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
-
----
-
 ## Template Features
 
 - Code Presenting |
@@ -29,6 +19,7 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
+$$ x^2 -3x+4=5$$
 ---
 
 @title[JavaScript Block]
@@ -105,11 +96,11 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
+@fa[twitter gp-contact](@monogioudis)
 
-@fa[github gp-contact](gitpitch)
+@fa[github gp-contact](pantelis)
 
-@fa[medium gp-contact](@gitpitch)
+@fa[medium gp-contact](@monogioudis)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
