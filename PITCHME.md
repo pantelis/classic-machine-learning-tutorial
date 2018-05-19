@@ -19,7 +19,7 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
-$$x^2 -3x+4=5$$
+
 ---
 
 @title[JavaScript Block]
@@ -74,23 +74,7 @@ http.createServer(function (request, response) {
 
 ## Go GitPitch Pro!
 
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
-
----
+$$x^2 -3x+4=5$$
 
 ### Questions?
 
