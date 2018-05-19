@@ -1,6 +1,6 @@
-# Blue
+# Classical Machine Learning 101
 
-### A GitPitch Presentation Template
+### Tutorial 
 
 ---
 
